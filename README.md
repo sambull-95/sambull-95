@@ -1,4 +1,4 @@
-👋 Hi, i'm Sam
+👋 Hi, I'm Sam
 <br><br>
 I'm on my way to becoming a data analyst, with an interest in all things data! If you have any projects
 you'd like to collaborate on, please don't hesitate to get in touch.
